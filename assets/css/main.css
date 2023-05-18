@@ -1,0 +1,89 @@
+header {
+  padding: 23px 0 28px;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 37px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0;
+}
+
+p {
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.home {
+  width: 1016px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+/*padding */
+.py-15 {
+  padding: 15px 0;
+}
+
+.py-22 {
+  padding: 22px 0;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.pb-19 {
+  padding-bottom: 19px;
+}
+
+.px-8 {
+  padding: 0 8px;
+}
+
+.pl-40 {
+  padding-left: 40px;
+}
+
+/*font family*/
+.font-roboto {
+  font-family: Roboto, sans-serif;
+}
+
+.font-times {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/*colors*/
+.text-black {
+  color: #000000;
+}
+
+/*line height*/
+.line-height-18 {
+  line-height: 18px;
+}
+
+.line-height-19 {
+  line-height: 19px;
+}
+
+/*width*/
+.width-650 {
+  width: 650px;
+}
+
+.width-100 {
+  width: 100px;
+}
